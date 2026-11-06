@@ -1,0 +1,6 @@
+vendor/
+/vendor/
+.env
+.DS_Store
+*.log
+desktop.ini
