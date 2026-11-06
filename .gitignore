@@ -1,6 +1,8 @@
-vendor/
-/vendor/
+@"
 .env
-.DS_Store
-*.log
+.env.*
+vendor/
+node_modules/
 desktop.ini
+rest-api-perpustakaan/jq.exe
+"@ | Out-File -Encoding utf8 .gitignore
